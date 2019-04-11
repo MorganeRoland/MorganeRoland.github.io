@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Handlee');
+@import url('https://fonts.googleapis.com/css?family=Imprima');
+
+h1 {
+	font-family: 'Handlee', cursive;
+	color: #22780F;
+}
+
+h3 {
+	font-family: 'Handlee', cursive;
+	margin-bottom: -15px;
+	color: #69BE28;
+}
+
+p {
+	font-family: 'Imprima', sans-serif;
+}
+
+a{
+	color: #32CD32;
+}
+
+img {
+	width : 65%;
+}
+
+hr {
+	margin-top : 20px;
+}

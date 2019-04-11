@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+#timeline-embed {
+	font-family: 'Nunito', sans-serif;
+}
+
+/*la date*/
+.tl-headline-date {
+	font-family: 'Raleway', sans-serif;
+}
+
+.tl-timeaxis-background {
+    background-color: black;
+}
